@@ -1,5 +1,4 @@
-/*22070123150 Experiment 1*/
-// C++ Hello World Program
+
 #include <iostream>
 using namespace std;
 int main()
